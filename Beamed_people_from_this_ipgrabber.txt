@@ -1,0 +1,107 @@
+All these are stolen IPs
+Worth:40$
+                  1:Beamed IP Address: 198.235.24.215
+Beamed location: {"country":"CA","region":"ON","city":"Ingersoll","ll":[43.0334,-80.883]}
+198.235.24.215
+Beamed IP Address: 109.152.156.24
+Beamed location: {"country":"GB","region":"ENG","city":"Milton Keynes","ll":[52.0333,-0.7]}
+104.249.72.27
+Beamed location: {"country":"US","region":"CA","city":"Costa Mesa","ll":[33.6401,-117.9159]}
+35.196.132.85
+Beamed location: {"country":"US","region":"VA","city":"","ll":[38.6583,-77.2481]}
+66.249.83.70
+Beamed location: {"country":"US","region":"AL","city":"Pell City","ll":[33.5986,-86.3434]}
+46.138.12.252
+Beamed location: {"country":"RU","region":"MOW","city":"Moscow","ll":[55.7527,37.6172]}
+68.4.53.127
+Beamed location: {"country":"US","region":"CA","city":"Lake Forest","ll":[33.6416,-117.6898]}
+Beamed IP Address: 87.20.112.31
+Beamed location: {"country":"IT","region":"52","city":"Florence","ll":[43.7667,11.25]}
+Beamed IP Address: 173.252.83.6
+Beamed location: {"country":"US","region":"","city":"","ll":[37.751,-97.822]}
+Beamed IP Address: 173.252.127.22
+Beamed location: {"country":"US","region":"","city":"","ll":[37.751,-97.822]}
+Beamed IP Address: 31.13.103.2
+Beamed location: {"country":"IE","region":"","city":"","ll":[53.3472,-6.2439]}
+Beamed IP Address: 181.214.94.248
+Beamed location: {"country":"US","region":"NV","city":"Las Vegas","ll":[36.1685,-115.1164]}
+Beamed IP Address: 75.117.11.29
+Beamed location: {"country":"US","region":"GA","city":"Ochlocknee","ll":[30.9742,-84.055]}
+Beamed IP Address: 24.224.152.49
+Beamed location: {"country":"CA","region":"NS","city":"Wolfville","ll":[45.0834,-64.3655]}
+                  THE VICTIM FOLDER!
+
+                  1:Beamed IP Address: 198.235.24.215
+Beamed location: {"country":"CA","region":"ON","city":"Ingersoll","ll":[43.0334,-80.883]}
+198.235.24.215
+Beamed IP Address: 109.152.156.24
+Beamed location: {"country":"GB","region":"ENG","city":"Milton Keynes","ll":[52.0333,-0.7]}
+104.249.72.27
+Beamed location: {"country":"US","region":"CA","city":"Costa Mesa","ll":[33.6401,-117.9159]}
+35.196.132.85
+Beamed location: {"country":"US","region":"VA","city":"","ll":[38.6583,-77.2481]}
+66.249.83.70
+Beamed location: {"country":"US","region":"AL","city":"Pell City","ll":[33.5986,-86.3434]}
+46.138.12.252
+Beamed location: {"country":"RU","region":"MOW","city":"Moscow","ll":[55.7527,37.6172]}
+68.4.53.127
+Beamed location: {"country":"US","region":"CA","city":"Lake Forest","ll":[33.6416,-117.6898]}
+Beamed IP Address: 87.20.112.31
+Beamed location: {"country":"IT","region":"52","city":"Florence","ll":[43.7667,11.25]}
+Beamed IP Address: 173.252.83.6
+Beamed location: {"country":"US","region":"","city":"","ll":[37.751,-97.822]}
+Beamed IP Address: 173.252.127.22
+Beamed location: {"country":"US","region":"","city":"","ll":[37.751,-97.822]}
+Beamed IP Address: 31.13.103.2
+Beamed location: {"country":"IE","region":"","city":"","ll":[53.3472,-6.2439]}
+Beamed IP Address: 181.214.94.248
+Beamed location: {"country":"US","region":"NV","city":"Las Vegas","ll":[36.1685,-115.1164]}
+Beamed IP Address: 75.117.11.29
+Beamed location: {"country":"US","region":"GA","city":"Ochlocknee","ll":[30.9742,-84.055]}
+Hint: hit control+c anytime to enter REPL.
+Server started on port 3000
+  Beamed IP Address: 52.229.26.36
+Beamed location: {"country":"US","region":"WA","city":"","ll":[47.6092,-122.3314]}
+Message sent to Discord webhook
+  Beamed IP Address: 154.30.116.165
+Beamed location: {"country":"US","region":"CA","city":"Los Angeles","ll":[34.0584,-118.278]}
+Message sent to Discord webhook
+  Beamed IP Address: 152.39.130.243
+Beamed location: {"country":"US","region":"NC","city":"Raleigh","ll":[35.7727,-78.6324]}
+Message sent to Discord webhook
+  Beamed IP Address: 51.89.79.108
+Beamed location: {"country":"FR","region":"","city":"","ll":[48.8582,2.3387]}
+Message sent to Discord webhook
+  Beamed IP Address: 35.91.43.164
+Beamed location: {"country":"US","region":"WA","city":"Seattle","ll":[47.6348,-122.3451]}
+Message sent to Discord webhook
+  Beamed IP Address: 88.127.126.48
+Beamed location: {"country":"FR","region":"PAC","city":"Sollies-Pont","ll":[43.1898,6.0432]}
+Message sent to Discord webhook
+  Beamed IP Address: 88.127.126.48
+Beamed location: {"country":"FR","region":"PAC","city":"Sollies-Pont","ll":[43.1898,6.0432]}
+Message sent to Discord webhook
+  Beamed IP Address: 77.78.54.55
+Beamed location: {"country":"BG","region":"18","city":"Rousse","ll":[43.8564,25.9708]}
+Message sent to Discord webhook
+  Beamed IP Address: 176.254.92.104
+Beamed location: {"country":"GB","region":"ENG","city":"Doncaster","ll":[53.5352,-1.0534]}
+Message sent to Discord webhook
+Beamed IP Address: 162.221.128.164
+Beamed location: {"country":"US","region":"TN","city":"Tazewell","ll":[36.471,-83.5552]}
+Beamed IP Address: 68.50.186.79
+Beamed location: {"country":"US","region":"IN","city":"Greenfield","ll":[39.7891,-85.8094]}
+Beamed IP Address: 172.58.5.75
+Beamed location: {"country":"US","region":"GA","city":"Atlanta","ll":[33.9388,-84.2754]}
+Beamed IP Address: 79.185.155.78
+Beamed location: {"country":"PL","region":"MZ","city":"Warka","ll":[51.7879,21.1845]}
+Beamed IP Address: 188.147.4.35
+Beamed location: {"country":"PL","region":"MA","city":"Polanka Wielka","ll":[49.9833,19.3101]}
+Beamed IP Address: 188.147.4.35
+Beamed location: {"country":"PL","region":"MA","city":"Polanka Wielka","ll":[49.9833,19.3101]}
+Beamed IP Address: 172.93.48.137
+Beamed location: {"country":"US","region":"WA","city":"Seattle","ll":[47.6144,-122.3447]}
+Beamed IP Address: 73.184.34.217
+Beamed location: {"country":"US","region":"GA","city":"Jonesboro","ll":[33.5231,-84.3579]}
+Beamed IP Address: 159.89.148.37
+Beamed location: {"country":"US","region":"CA","city":"Santa Clara","ll":[37.3417,-121.9753]}
